@@ -1,12 +1,3 @@
-// ==UserScript==
-// @name         IVAC Automation with Countdown & Anti-AutoClick (Fixed)
-// @namespace    http://tampermonkey.net/
-// @version      7.0
-// @description  Full IVAC UI automation with ascending countdown (1s-57s) and anti-autoclick protection
-// @author       Paid User
-// @match        https://payment.ivacbd.com/*
-// @grant        none
-// ==/UserScript==
 
 (function () {
     'use strict';
