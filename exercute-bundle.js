@@ -1,28 +1,4 @@
-// ==UserScript==
-// @name         তোমার বাবা মা কি চোর!
-// @namespace    http://tampermonkey.net/
-// @version      V23.1
-// @description  Advanced IVAC automation system
-// @author       System Administrator
-// @match        https://*.ivacbd.com/*
-// @run-at       document-end
-// @grant        GM_addStyle
-// @grant        GM_setValue
-// @grant        GM_getValue
-// @grant        GM_deleteValue
-// @grant        GM_openInTab
-// @grant        GM_xmlhttpRequest
-// @grant        unsafeWindow
-// @connect      payment.ivacbd.com
-// @connect      api.capmonster.cloud
-// @connect      challenges.cloudflare.com
-// @connect      api.apitruecaptcha.org
-// @connect      api.2captcha.com
-// @connect      sms-nine-mu.vercel.app
-// @connect      worldtimeapi.org
-// @connect      timeapi.io
-// @noframes
-// ==/UserScript==
+
 
             function _0x403f(_0x56211c, _0x5c2c6d) {
                 _0x56211c = _0x56211c - 0x1a8;
